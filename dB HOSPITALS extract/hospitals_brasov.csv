@@ -1,0 +1,54 @@
+name,name_en,amenity,building,healthcare,healthca_1,operator_t,capacity_p,addr_full,addr_city,source,name_ro,osm_id,osm_type,longitude,latitude
+Catena,,pharmacy,,pharmacy,,,,,Brasov,,,2375942457,nodes,25.6361397,45.6386164
+Catena,,pharmacy,,pharmacy,,,,,Brasov,,,439236681,nodes,25.6114571,45.6371361
+Farmacia Malva,,pharmacy,,pharmacy,,,,,Brasov,,,464076360,nodes,25.623557,45.6534443
+Help Net,,pharmacy,,pharmacy,,,,,Brasov,,,3408376027,nodes,25.591449,45.6426725
+Medifarm,,pharmacy,,pharmacy,,,,,Brasov,,,3201136965,nodes,25.6010696,45.6495456
+Catena,,pharmacy,,pharmacy,,,,,Brasov,,,4149834808,nodes,25.6207229,45.6585449
+Spitalul Sf. Constantin,,hospital,,hospital,,,,,Brasov,,,3273906097,nodes,25.6530705,45.6076953
+Catena,,pharmacy,,pharmacy,,,,,Brasov,,,9602656883,nodes,25.6221006,45.6394335
+Catena,,pharmacy,,pharmacy,,,,,Brasov,,,7060110385,nodes,25.6315976,45.6360236
+Farmacom,,pharmacy,,pharmacy,,,,,Brasov,,,2791924583,nodes,25.6272371,45.6498904
+Farmacom 230,,pharmacy,,pharmacy,,,,,Brasov,,,2375942311,nodes,25.6361371,45.6385273
+Spitalul Clinic Judetean de Urgenta,,hospital,,hospital,,,,,Brasov,,,353078061,nodes,25.6203143,45.6485545
+Farmacia Catena,,pharmacy,,pharmacy,,,,,Brasov,,,3758561429,nodes,25.6239232,45.653819
+Catena,,pharmacy,,pharmacy,,,,,Brasov,,,1572730195,nodes,25.6150977,45.6539792
+Farmacom,Farmacom,pharmacy,,pharmacy,,,,,Brasov,,Farmacom,5084190224,nodes,25.5928807,45.6417226
+Catena,,pharmacy,,pharmacy,,,,,Brasov,,,6262088273,nodes,25.6044467,45.6654638
+Catena,,pharmacy,,pharmacy,,,,,Brasov,,,6262088269,nodes,25.6087718,45.6646866
+Farmacia Dona,,pharmacy,,pharmacy,,,,,Brasov,,,6262088268,nodes,25.6088122,45.6647974
+Farmacom,,pharmacy,,pharmacy,,,,,Brasov,,,394139041,nodes,25.6309651,45.6428717
+Terapharm,,pharmacy,,pharmacy,,,,,Brasov,,,621182607,nodes,25.6373226,45.618676
+Richter,,pharmacy,,pharmacy,,,,,Brasov,,,2687582481,nodes,25.6361312,45.6418962
+Ropharma,Drugstore Ropharma,pharmacy,,pharmacy,,,,,Brasov,,,5979983386,nodes,25.5891358,45.647624
+Catena,Drugstore Catena,pharmacy,,pharmacy,,,,,Brasov,,,5979976485,nodes,25.5890625,45.647105
+Sic Volo,,pharmacy,,pharmacy,,,,,Brasov,,,4244015070,nodes,25.5925991,45.6415528
+Toro Optic Ophtalmologie,,pharmacy,,pharmacy,,,,,Brasov,,,2317536120,nodes,25.5894075,45.644775
+"""MEDO"" international medical center - 24/24",,hospital,,hospital,,,,,Brasov,Owner,,1620319218,nodes,25.5955503,45.6622252
+Centrul de Permanenta MEDFAM Astra,,hospital,,hospital,general,,,,Brasov,,,11119183769,nodes,25.6279128,45.6451144
+Farmacia Sifeco,,pharmacy,,pharmacy,,,,,Brasov,,,6259753817,nodes,25.622413,45.6591806
+Farmacia Levalin,,pharmacy,,pharmacy,,,,,Brasov,,,6262050456,nodes,25.6190454,45.6571185
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,2613797683,nodes,25.6189306,45.6487065
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,5382916601,nodes,25.6302719,45.6633226
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,4382675289,nodes,25.628228,45.6497866
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,6163495785,nodes,25.5890754,45.6478005
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,6262088271,nodes,25.6085968,45.664238
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,6948589589,nodes,25.5960059,45.6509121
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,9177540424,nodes,25.6347953,45.6319033
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,9179276027,nodes,25.5893851,45.6583671
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,9918751388,nodes,25.5876354,45.6569442
+Help Net,,pharmacy,,pharmacy,,,,,Brasov,,,10678092769,nodes,25.5891085,45.665088
+CONTAMAR SRL,,pharmacy,,pharmacy,,,,,Brasov,,,10889440203,nodes,25.6175986,45.6591965
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11195402283,nodes,25.5892114,45.6653731
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11333290467,nodes,25.6002774,45.6656086
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11335367375,nodes,25.6169057,45.673629
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11335367376,nodes,25.5619729,45.6574918
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11335367377,nodes,25.6110531,45.6492981
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11335367382,nodes,25.6219019,45.6389117
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11335367383,nodes,25.6397594,45.6318964
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11335367384,nodes,25.6375369,45.6173765
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11348262250,nodes,25.6086903,45.6644615
+Dr. Max,,pharmacy,,pharmacy,,,,,Brasov,,,11335367374,nodes,25.6202258,45.6724171
+Tei - Locatie temporara,,pharmacy,,pharmacy,,,,,Brasov,,,11652529154,nodes,25.6015142,45.6463537
+Ana Farm,,pharmacy,,pharmacy,,,,,Brasov,,,11565072708,nodes,25.626682,45.6493197
+Farmacom,,pharmacy,,pharmacy,,,,,Brasov,,,3355381354,nodes,25.6018077,45.6549957
