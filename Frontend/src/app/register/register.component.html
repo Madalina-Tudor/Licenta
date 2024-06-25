@@ -1,0 +1,47 @@
+<div class="register-page">
+  <div class="video-container">
+    <video autoplay muted loop>
+      <source src="/assets/videos/video5.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div class="form-container">
+    <div class="register-container">
+      <div class="register-header">
+        <h2>Creeaza cont nou</h2>
+      </div>
+      <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+        <div *ngIf="successMessage" class="alert alert-success">{{ successMessage }}</div>
+        <div *ngIf="errorMessage" class="alert alert-danger">{{ errorMessage }}</div>
+        <div class="form-group">
+          <input id="username" formControlName="username" type="text" class="form-control" placeholder="Username" required />
+          <div *ngIf="validationErrors.username" class="text-danger">
+            {{ validationErrors.username }}
+          </div>
+        </div>
+        <div class="form-group">
+          <input id="email" formControlName="email" type="email" class="form-control" placeholder="E-mail" required />
+          <div *ngIf="validationErrors.email" class="text-danger">
+            {{ validationErrors.email }}
+          </div>
+        </div>
+        <div class="form-group">
+          <input id="password" formControlName="password" type="password" class="form-control" placeholder="Parola" required />
+          <div *ngIf="validationErrors.password" class="text-danger">
+            {{ validationErrors.password }}
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Creeaza cont</button>
+        <div class="social-login">
+          <p>Sau conecteaza-te cu</p>
+          <div class="social-buttons">
+            <button class="btn btn-social apple">Apple</button>
+            <button class="btn btn-social google">Google</button>
+            <button class="btn btn-social facebook">Facebook</button>
+          </div>
+        </div>
+      </form>
+      <p class="create-account">Ai deja un cont? <a href="/login">Intra in cont</a></p>
+    </div>
+  </div>
+</div>

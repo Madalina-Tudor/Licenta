@@ -1,0 +1,10 @@
+Flask==3.0.3
+SQLAlchemy==2.0.30
+psycopg2-binary==2.9.9
+pycryptodome==3.20.0
+tenseal
+numpy~=1.26.4
+pandas~=2.2.2
+scikit-learn~=1.5.0
+tensorflow~=2.16.1
+keras~=3.3.3

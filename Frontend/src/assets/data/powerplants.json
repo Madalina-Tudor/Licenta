@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"country": "cmb",
+		"country_long": "cambogia",
+		"name": "acasa",
+		"gppd_idnr": "astea tre sa fie unice ca altfel se blocheaza serverul );",
+		"capacity_mw": 12,
+		"longitude": 25.6533,
+		"latitude": 45.6444,
+		"primary_fuel": "nu stiu"
+	},
+	{
+		"id": 2,
+		"country": "rou",
+		"country_long": "romania",
+		"name": "cealalta casa",
+		"gppd_idnr": "nu stiu",
+		"capacity_mw": 12,
+		"longitude": 25.3533,
+		"latitude": 45.8234,
+		"primary_fuel": "nu stiu"
+	},
+	{
+		"id": 3,
+		"country": "mmm",
+		"country_long": "bine",
+		"name": "nu",
+		"gppd_idnr": "23123123",
+		"capacity_mw": 12,
+		"longitude": 25.7533,
+		"latitude": 45.7844,
+		"primary_fuel": "oke"
+	}
+]
