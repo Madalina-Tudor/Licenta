@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.licenta.userAuthentification.SpringBootSecurityPostgresqlApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.971 s - in com.licenta.userAuthentification.SpringBootSecurityPostgresqlApplicationTests
